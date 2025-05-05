@@ -1,4 +1,4 @@
-# CENG482 Project
+# CENG482 Project - Evolutionary Computation
 # Project Source Code - Knapsack Algorithm for Efficient Resource Allocation
 # Halil Can Uyanık & Yaşar Mehmet Bağdatlı
 
